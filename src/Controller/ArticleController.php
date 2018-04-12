@@ -16,9 +16,9 @@ use Symfony\Component\Routing\Annotation\Route;
 class ArticleController extends AbstractController
 {
 
-     /**
- * @Route("/")
- */
+    /**
+     * @Route("/")
+     */
 
     public function homepage()
     {
@@ -40,7 +40,7 @@ class ArticleController extends AbstractController
             'I like bacon too! Buy some from my site! bakinsomebacon.com',
         ];
 
-        return $this->render('article/show.html.twig' , [
+        return $this->render('article/show.html.twig', [
             'title' => ucwords(str_replace('-', ' ', $slug)),
             'comments' => $comments,
         ]);
@@ -60,8 +60,6 @@ class ArticleController extends AbstractController
 //    }
 
 
-
-
 //    /**
 //     * @Route("/news/why-asteroids-taste-like-bacon")
 //     */
@@ -70,7 +68,6 @@ class ArticleController extends AbstractController
 //    {
 //        return new Response('Future page to show one space article!');
 //    }
-
 
 
 ///**

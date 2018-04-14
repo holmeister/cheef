@@ -17,8 +17,8 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#114#179#0#PHP" expanded="true" />
               </folding>
@@ -29,16 +29,9 @@
       <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/article/show.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="68">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-                <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-                <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-                <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-                <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-                <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,23 +40,27 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-              <folding />
+              <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <marker date="1523694191206" expanded="true" signature="412:762" ph="{&quot;sensiolabs/security-checker&quot;: &quot;^4.1&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="778:881" ph="{&quot;sort-packages&quot;: true...}" />
+                <marker date="1523694191206" expanded="true" signature="809:844" ph="{&quot;*&quot;: &quot;dist&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="899:963" ph="{...}" />
+                <marker date="1523694191206" expanded="true" signature="918:957" ph="{&quot;App\&quot;: &quot;src/&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="985:1058" ph="{...}" />
+                <marker date="1523694191206" expanded="true" signature="1004:1052" ph="{&quot;App\Tests\&quot;: &quot;tests/&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="1075:1237" ph="{&quot;symfony/polyfill-iconv&quot;: &quot;*&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="1254:1611" ph="{...}" />
+                <marker date="1523694191206" expanded="true" signature="1280:1468" ph="{&quot;cache:clear&quot;: &quot;symfony-cmd&quot;...}" />
+                <marker date="1523694191206" expanded="true" signature="1498:1537" ph="[...]" />
+                <marker date="1523694191206" expanded="true" signature="1566:1605" ph="[...]" />
+                <marker date="1523694191206" expanded="true" signature="1629:1667" ph="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tutorial/templates/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="86" lean-forward="false" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -143,10 +140,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="15" />
-    <option name="width" value="1346" />
-    <option name="height" value="693" />
+    <option name="x" value="-511" />
+    <option name="y" value="81" />
+    <option name="width" value="1209" />
+    <option name="height" value="687" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -163,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,6 +210,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,18 +275,19 @@
       <workItem from="1523574172481" duration="45000" />
       <workItem from="1523574300405" duration="29000" />
       <workItem from="1523707880646" duration="1394000" />
+      <workItem from="1523722038267" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24169000" />
+    <option name="totallyTimeSpent" value="24796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="15" width="1346" height="693" extended-state="0" />
+    <frame x="-511" y="81" width="1209" height="687" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33359253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45227858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13824058" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17414722" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -330,14 +328,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -363,14 +354,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -396,14 +380,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -429,14 +406,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -462,14 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -495,14 +458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -528,14 +484,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -561,14 +510,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -586,14 +528,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -619,14 +554,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -663,14 +591,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -786,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#114#179#0#PHP" expanded="true" />
           </folding>
@@ -796,39 +717,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1523574467139" expanded="true" signature="80:1986" ph="{% block body ...%}" />
-            <marker date="1523574467139" expanded="true" signature="163:1807" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="175:596" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="608:1211" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1223:1796" ph="..." />
-            <marker date="1523574467139" expanded="true" signature="1876:1961" ph="{% for comment in comments ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding />
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <marker date="1523694191206" expanded="true" signature="412:762" ph="{&quot;sensiolabs/security-checker&quot;: &quot;^4.1&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="778:881" ph="{&quot;sort-packages&quot;: true...}" />
+            <marker date="1523694191206" expanded="true" signature="809:844" ph="{&quot;*&quot;: &quot;dist&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="899:963" ph="{...}" />
+            <marker date="1523694191206" expanded="true" signature="918:957" ph="{&quot;App\&quot;: &quot;src/&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="985:1058" ph="{...}" />
+            <marker date="1523694191206" expanded="true" signature="1004:1052" ph="{&quot;App\Tests\&quot;: &quot;tests/&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="1075:1237" ph="{&quot;symfony/polyfill-iconv&quot;: &quot;*&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="1254:1611" ph="{...}" />
+            <marker date="1523694191206" expanded="true" signature="1280:1468" ph="{&quot;cache:clear&quot;: &quot;symfony-cmd&quot;...}" />
+            <marker date="1523694191206" expanded="true" signature="1498:1537" ph="[...]" />
+            <marker date="1523694191206" expanded="true" signature="1566:1605" ph="[...]" />
+            <marker date="1523694191206" expanded="true" signature="1629:1667" ph="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/templates/base.html.twig" />
     <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/templates/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="86" lean-forward="false" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
           <folding />
         </state>
       </provider>
